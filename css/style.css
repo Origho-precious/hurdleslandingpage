@@ -211,7 +211,8 @@ footer .copyright{
 
 footer .attribution { 
     margin-top: 3rem;
-    font-size: 11px; text-align: center; 
+    font-size: 16px; 
+    text-align: center; 
 }
 
 footer .attribution a { color: hsl(228, 45%, 44%); }
